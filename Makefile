@@ -5,7 +5,7 @@
 # Makefile for assignment one of COMP20007 2016.
 #
 # Replace '<STUDENT-ID>' with your Student ID e.g. 269508
-STUDENTID = 760505
+STUDENTID = 
 SUBMIT	= toposort.c graph.c graphio.c report.pdf
 
 # Define the C compiler
